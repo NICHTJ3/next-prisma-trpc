@@ -67,5 +67,8 @@
   },
   "publishConfig": {
     "access": "restricted"
+  },
+   "engines": {
+    "node": "~16.15.0"
   }
 }
