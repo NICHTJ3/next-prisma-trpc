@@ -1,4 +1,6 @@
-/**
- * @link https://nextjs.org/docs/api-reference/next.config.js/introduction
- */
-module.exports = {};
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+};
+
+module.exports = nextConfig;
